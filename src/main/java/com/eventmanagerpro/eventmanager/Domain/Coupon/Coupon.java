@@ -16,7 +16,7 @@ import java.util.UUID;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class oupon {
+public class Coupon {
     @Id
     @GeneratedValue
     private UUID id;
